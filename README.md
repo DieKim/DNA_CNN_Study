@@ -6,6 +6,6 @@ DBDBDEEP: 김다희, 오홍석, 이준규, 이현진, 임수진
 
 ## 💡 Curriculum
 
-## Reference
+## 💡 Reference
 * 인프런 딥러닝 CNN 완벽가이드 - Fundmental편
 * CS231n (Stanford Univ.)
